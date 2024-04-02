@@ -1,6 +1,6 @@
 # navx - an API for navx2 STMicroelectronics navigation robotics board
 
-This is a pure python library that can read all the sensors on the navx board.  Its conposed of 3 classes.
+This is a pure python library that can read all the sensors on the navx board.  Its composed of 3 classes.
 
 **NavigationEntry**: This class is a data class that represents a single reading from the board.  It will capture the following attributes:
 - yaw
